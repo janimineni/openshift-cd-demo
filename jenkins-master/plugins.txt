@@ -21,7 +21,6 @@ workflow-step-api:2.0
 workflow-support:2.0
 workflow-basic-steps:2.0
 pipeline-input-step:2.0
-workflow-job:2.0
 workflow-cps-global-lib:2.0
 workflow-cps:2.0
 workflow-multibranch:2.0
